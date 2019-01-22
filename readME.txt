@@ -30,6 +30,7 @@ Press ESC to escape.
 Additional features:
 screen blinks. Uncomment the code in "SpriteController.java", render() function section to see this feature. 
 Levels 0-5, loadable by default. 
+Level 0 and 1 were given, and the other levels were added by myself.
 
 
 
